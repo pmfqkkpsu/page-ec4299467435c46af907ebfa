@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "06f3a60c402598d78673e4d0",
+  "owner": "pmfqkkpsu",
+  "repo": "page-ec4299467435c46af907ebfa",
+  "title": "行云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ec4299467435c46af907ebfa",
+      "a": "行云",
+      "b": "2027最新官网",
+      "entity": "行云",
+      "brand": "行云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7f345ec9ccebeaa664dafedb6e3ade756b35ee9388c45f7dc6cc1b7964508342",
+      "content": {
+        "primary_entity": "行云",
+        "keyword1": "行云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比提供实际内容。基础版每月 100GB 流量、支持 3 台设备，适合轻度使用；旗舰版每月 300GB 流量、支持 5 台设备，并带 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备，另含 VIP 高带宽节点与企业定制路由。年付方案分别约合 ¥150/年、¥350/年与 ¥850/年，可结合个人或团队设备数量选择。",
+          "AI_HERO_SUBTITLE": "多设备网络加速方案",
+          "AI_HERO_INTRO": "行云为跨区域访问场景提供订阅式网络加速服务。基础版适合轻度使用，旗舰版面向多设备与流媒体需求，团队版支持较多设备同时在线。用户按设备数量、月流量和线路要求选择版本，再依客户端文档配置订阅。",
+          "AI_VISUAL_TITLE": "选适合你的加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "设备数从 3 台到 20 台",
+          "AI_HIGHLIGHT_3": "年付方案折算更省",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和订阅周期出发，快速判断适合的版本。",
+          "AI_FEATURE_TITLE_1": "按设备数选版本",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数量选择可避免超出同时在线数。",
+          "AI_FEATURE_TITLE_2": "按月流量选档位",
+          "AI_FEATURE_TEXT_2": "100GB、300GB 与 1000GB 三档月流量，轻度浏览选基础版，流媒体与游戏选旗舰版。",
+          "AI_FEATURE_TITLE_3": "按年付控制成本",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用可优先考虑年付方案。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "不同系统对应不同客户端，安装后导入订阅即可使用，具体支持范围以客户端文档说明为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合 1 至 3 台设备轻度使用，旗舰版支持 5 台设备并带专线游戏优化，团队版可容纳 20 台设备与企业定制路由。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "先确定版本，再核对设备条件，最后在客户端填写订阅信息。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端版本，检查是否满足对应平台的基本运行要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅信息，完成后即可在已授权设备上使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对版本更顺手",
+          "AI_CLOSING_TEXT": "按设备数量和流量需求挑一个套餐，再依客户端文档完成订阅配置。",
+          "AI_FAQ_TITLE": "行云常见问题",
+          "AI_FAQ_QUESTION_1": "行云基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备在线，解锁基础流媒体；旗舰版每月 300GB 流量、5 台设备在线，含全节点原生流媒体解锁和 IPLC 专线游戏加速优化。",
+          "AI_FAQ_QUESTION_2": "行云支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。选择时可按日常同时使用的手机、电脑和平板数量来判断。",
+          "AI_FAQ_QUESTION_3": "行云可以按年付费吗？",
+          "AI_FAQ_ANSWER_3": "可以。基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比按月付费月均成本更低，适合长期使用。",
+          "AI_FAQ_QUESTION_4": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_4": "团队版每月 1000GB 流量，支持 20 台设备同时在线，提供 VIP 专属高带宽节点、企业定制路由和专属客户经理服务，适合多人协作或小型团队集中使用。",
+          "AI_FAQ_QUESTION_5": "如何在常用客户端上使用行云？",
+          "AI_FAQ_ANSWER_5": "先在设备上安装支持订阅导入的客户端，如桌面端的 Clash、Surge，移动端的 Shadowrocket、V2rayNG 等，再按客户端文档导入订阅信息即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mes72r7mgmx1a.com",
+    "host": "xn--mes72r7mgmx1a.com"
+  },
+  "file_hashes": {
+    "index.html": "90319dbf29be258b65a6464a736be52007729ec69d83f8facf910bdbd1ba1387",
+    "sitemap.xml": "2ba9daef97281197e1728fc59397d11000612ab7283f5b94b7d2081f4afaba41",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "26819ab7eea738ed793cb480531ade5d6dc7d651e1c040817a02b3272004b6cf",
+    "robots.txt": "3c68abf29988689949401fe320d25fb4e29e50e85cd887659a60b39bd4af3d64",
+    "f7af6749c72cad83f7b35eefc6f21439.txt": "3a90980b0fc54a4e2c109b1022a5f555263500f9f3b3927143ee7f045845a6da"
+  },
+  "revision": "1a461a0345bce2549f697ddcbb66d0c9848b784b43b1d683f593649e74942801"
+}
